@@ -2,7 +2,7 @@
 
 <h3>实现</h3>
 
-整合springmvc, spring, hibernate，具备增删改查功能。
+整合SpringMVC, Spring, Hibernate，具备增删改查功能。
 
 数据库用的MySQL。
 
