@@ -1,4 +1,4 @@
-# SpringMVC-Spring-Hibernate
+# springmvc-spring-hibernate-demo
 
 <h3>实现</h3>
 
