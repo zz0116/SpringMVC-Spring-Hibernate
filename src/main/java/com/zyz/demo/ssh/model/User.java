@@ -1,4 +1,4 @@
-package com.zyz.maven.model;
+package com.zyz.demo.ssh.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -6,7 +6,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * Created by Zhang Yuangzhuo on 2016/8/31.
+ * Created by ZhangYuanzhuo on 2016/8/31.
  */
 @Entity
 public class User {

@@ -18,8 +18,8 @@ hibernate 5.2.2.Final
 
 <h3>欢迎界面</h3>
 
-![Alt text](src/images/welcome.png)
+![Alt text](src/main/resources/images/welcome.png)
 
 <h3>添加用户界面</h3>
 
-![Alt text](src/images/添加用户.png)
+![Alt text](src/main/resources/images/添加用户.png)

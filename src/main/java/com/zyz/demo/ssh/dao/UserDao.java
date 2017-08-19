@@ -1,11 +1,11 @@
-package com.zyz.maven.dao;
+package com.zyz.demo.ssh.dao;
 
-import com.zyz.maven.model.User;
+import com.zyz.demo.ssh.model.User;
 
 import java.util.List;
 
 /**
- * Created by Zhang Yuangzhuo on 2016/9/4.
+ * Created by ZhangYuanzhuo on 2016/9/4.
  */
 public interface UserDao {
     void saveUser(User user);

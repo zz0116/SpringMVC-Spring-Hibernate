@@ -1,17 +1,15 @@
-package com.zyz.maven.dao;
+package com.zyz.demo.ssh.dao;
 
-import com.zyz.maven.model.User;
+import com.zyz.demo.ssh.model.User;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 
 import javax.annotation.Resource;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Zhang Yuanzhuo on 2016/9/4.
+ * Created by ZhangYuanzhuo on 2016/9/4.
  */
 @Repository(value = "userDao")
 public class UserDaoImpl implements UserDao {
